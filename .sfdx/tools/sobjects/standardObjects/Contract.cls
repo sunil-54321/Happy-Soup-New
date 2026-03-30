@@ -5,7 +5,7 @@
 //     refresh your sObject definitions.
 // To edit your sObjects and their fields, edit the corresponding
 //     .object-meta.xml and .field-meta.xml files.
-
+// Adding here for demo!!
 global class Contract {
     global Id Id;
     global Account Account;
